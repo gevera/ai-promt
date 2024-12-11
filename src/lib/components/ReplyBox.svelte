@@ -35,7 +35,7 @@
 					transition:blur
 					src={reply.data}
 					alt={reply.id}
-					class="col-span-full row-span-full h-full w-full rounded-2xl object-cover"
+					class="col-span-full row-span-full h-full w-full rounded-2xl object-cover aspect-square"
 				/>
 			{/if}
 		</div>
